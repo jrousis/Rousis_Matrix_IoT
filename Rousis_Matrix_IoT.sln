@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rousis_Matrix_IoT", "Rousis_Matrix_IoT.vcxproj", "{02D03B44-0385-494D-9B36-81DECE4907C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02D03B44-0385-494D-9B36-81DECE4907C2}.Debug|ARM.ActiveCfg = Debug|ARM
+		{02D03B44-0385-494D-9B36-81DECE4907C2}.Debug|ARM.Build.0 = Debug|ARM
+		{02D03B44-0385-494D-9B36-81DECE4907C2}.Debug|ARM.Deploy.0 = Debug|ARM
+		{02D03B44-0385-494D-9B36-81DECE4907C2}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{02D03B44-0385-494D-9B36-81DECE4907C2}.Debug|ARM64.Build.0 = Debug|ARM64
+		{02D03B44-0385-494D-9B36-81DECE4907C2}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{02D03B44-0385-494D-9B36-81DECE4907C2}.Release|ARM.ActiveCfg = Release|ARM
+		{02D03B44-0385-494D-9B36-81DECE4907C2}.Release|ARM.Build.0 = Release|ARM
+		{02D03B44-0385-494D-9B36-81DECE4907C2}.Release|ARM.Deploy.0 = Release|ARM
+		{02D03B44-0385-494D-9B36-81DECE4907C2}.Release|ARM64.ActiveCfg = Release|ARM64
+		{02D03B44-0385-494D-9B36-81DECE4907C2}.Release|ARM64.Build.0 = Release|ARM64
+		{02D03B44-0385-494D-9B36-81DECE4907C2}.Release|ARM64.Deploy.0 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46A1D71B-FADF-4B9F-9DAD-439CD28B10B2}
+	EndGlobalSection
+EndGlobal
